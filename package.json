@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/**/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.14.0"
+  }
+}
